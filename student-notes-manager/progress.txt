@@ -1,0 +1,3 @@
+2026-02-01: Solved 5 calculus problems.
+Wrote a short Python script to process notes.
+Reviewed kinematics and practiced 3 problems.

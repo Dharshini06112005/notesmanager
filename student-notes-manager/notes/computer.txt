@@ -1,0 +1,3 @@
+Python basics: variables, loops, and functions.
+Write small scripts to automate simple tasks.
+Learn about lists and dictionaries for data storage.

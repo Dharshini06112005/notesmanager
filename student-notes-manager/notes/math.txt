@@ -1,0 +1,3 @@
+Calculus: practice derivatives and integrals.
+Key formulas: product, quotient, chain rules.
+Solve a few problems every day to build skill.

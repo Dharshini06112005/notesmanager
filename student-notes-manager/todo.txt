@@ -1,0 +1,3 @@
+- Finish calculus problem set 4
+- Complete Python string and file exercises
+- Read chapter on basic electricity and circuits
